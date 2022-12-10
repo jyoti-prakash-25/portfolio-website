@@ -183,7 +183,7 @@ header.shadow {
 
 .about-img img {
   width: 80%;
-  border-radius: 0.5rem;
+  border-radius: 50%;
 }
 
 .about-text p {
@@ -260,19 +260,19 @@ span {
 }
 
 .html-bar {
-  width: 91%;
+  width: 71%;
 }
 
 .css-bar {
-  width: 80%;
+  width: 60%;
 }
 
 .js-bar {
-  width: 92%;
+  width: 62%;
 }
 
 .sde-bar {
-  width: 80%;
+  width: 50%;
 }
 
 .services-content {
@@ -338,7 +338,7 @@ span {
 
 .portfolio-img {
   overflow: hidden;
-  border-radius: 0.5rem;
+  border-radius: 10%;
 }
 
 .portfolio-img img {
